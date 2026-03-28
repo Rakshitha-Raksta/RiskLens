@@ -1,6 +1,0 @@
-## Git Concepts 
-snapshot of a code. 
-"1.Commmit:snapshot of code."
-"1.Commit:snapshot of code."
-"2.Branch:parallel development."
-"3.Merge:combining work from branches."
